@@ -1,40 +1,37 @@
-# About 
-The Robot Operating System (ROS) is a set of software libraries and tools that help you build robot applications.
-From drivers to state-of-the-art algorithms, and with powerful developer tools, ROS has what you need for your next robotics project.
-And it's all open source.
-Full project details on [ROS.org](https://ros.org/)
-
-# Getting Started 
-Looking to get started with ROS?
-Our [installation guide is here](https://www.ros.org/blog/getting-started/).
-Once you've installed ROS start by learning some [basic concepts](https://docs.ros.org/en/rolling/Concepts/Basic.html) and take a look at our [beginner tutorials](https://docs.ros.org/en/rolling/Tutorials/Beginner-CLI-Tools.html).
-
-# Join the ROS Community
-
-## Community Resources
-
-* [ROS Discussion Forum](https://discourse.ros.org/)
-* [ROS Discord Server](https://discord.com/servers/open-robotics-1077825543698927656)
-* [Robotics Stack Exchange](https://robotics.stackexchange.com/) (preferred ROS support forum).
-* [Official ROS Videos](https://vimeo.com/osrfoundation)
-* [ROSCon](https://roscon.ros.org), our yearly developer conference. 
-* Cite ROS 2 in academic work using [DOI: 10.1126/scirobotics.abm6074](https://www.science.org/doi/10.1126/scirobotics.abm6074) 
-
-## Developer Resources
-* [ROS 2 Documentation](https://docs.ros.org/)
-* [ROS Package API reference](https://docs.ros.org/en/rolling/p/)
-* [ROS Package Index](https://index.ros.org/)
-* [ROS on Docker Hub](https://hub.docker.com/_/ros/)
-* [ROS Resource Status Page](https://status.openrobotics.org/)
-* [REP-2000](https://ros.org/reps/rep-2000.html): ROS 2 Releases and Target Platforms
-
-## Project Resources
-* [Purchase ROS Swag](https://spring.ros.org/)
-* [Information about the ROS Trademark](https://www.ros.org/blog/media/)
-* On Social Media
-  * [Open Robotics on LinkedIn](https://www.linkedin.com/company/open-source-robotics-foundation)
-  * [Open Robotics on Twitter](https://twitter.com/OpenRoboticsOrg)
-  * [ROS.org on Twitter](https://twitter.com/ROSOrg)
-
-ROS is made possible through the generous support of open source contributors and the non-profit [Open Source Robotics Foundation (OSRF)](https://www.openrobotics.org/).
-Tax deductible donations to the OSRF can be [made here.](https://donorbox.org/support-open-robotics?utm_medium=qrcode&utm_source=qrcode)
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><h1 tabindex="-1" dir="auto"><a id="user-content-about" class="anchor" aria-hidden="true" tabindex="-1" href="#about"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">关于</font></font></h1>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人操作系统 (ROS) 是一组软件库和工具，可帮助您构建机器人应用程序。</font><font style="vertical-align: inherit;">从驱动程序到最先进的算法，以及强大的开发工具，ROS 拥有您下一个机器人项目所需的一切。</font><font style="vertical-align: inherit;">而且都是开源的。</font><a href="https://ros.org/" rel="nofollow"><font style="vertical-align: inherit;">ROS.org</font></a><font style="vertical-align: inherit;">上的完整项目详细信息</font></font><a href="https://ros.org/" rel="nofollow"><font style="vertical-align: inherit;"></font></a></p>
+<h1 tabindex="-1" dir="auto"><a id="user-content-getting-started" class="anchor" aria-hidden="true" tabindex="-1" href="#getting-started"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">入门</font></font></h1>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">想要开始使用 ROS？</font><font style="vertical-align: inherit;">我们的</font></font><a href="https://www.ros.org/blog/getting-started/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装指南就在这里</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">安装 ROS 后，请先学习一些</font></font><a href="https://docs.ros.org/en/rolling/Concepts/Basic.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">基本概念</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并查看我们的</font></font><a href="https://docs.ros.org/en/rolling/Tutorials/Beginner-CLI-Tools.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">初学者教程</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<h1 tabindex="-1" dir="auto"><a id="user-content-join-the-ros-community" class="anchor" aria-hidden="true" tabindex="-1" href="#join-the-ros-community"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">加入 ROS 社区</font></font></h1>
+<h2 tabindex="-1" dir="auto"><a id="user-content-community-resources" class="anchor" aria-hidden="true" tabindex="-1" href="#community-resources"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">社区资源</font></font></h2>
+<ul dir="auto">
+<li><a href="https://discourse.ros.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ROS论坛</font></font></a></li>
+<li><a href="https://discord.com/servers/open-robotics-1077825543698927656" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ROS 不和谐服务器</font></font></a></li>
+<li><a href="https://robotics.stackexchange.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Robotics Stack Exchange</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（首选 ROS 支持论坛）。</font></font></li>
+<li><a href="https://vimeo.com/osrfoundation" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ROS 官方视频</font></font></a></li>
+<li><a href="https://roscon.ros.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ROSCon</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，我们的年度开发者大会。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 DOI 在学术作品中引用 ROS 2 </font></font><a href="https://www.science.org/doi/10.1126/scirobotics.abm6074" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：10.1126/scirobotics.abm6074</font></font></a></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-developer-resources" class="anchor" aria-hidden="true" tabindex="-1" href="#developer-resources"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发者资源</font></font></h2>
+<ul dir="auto">
+<li><a href="https://docs.ros.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ROS 2 文档</font></font></a></li>
+<li><a href="https://docs.ros.org/en/rolling/p/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ROS 包 API 参考</font></font></a></li>
+<li><a href="https://index.ros.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ROS 包索引</font></font></a></li>
+<li><a href="https://hub.docker.com/_/ros/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docker Hub 上的 ROS</font></font></a></li>
+<li><a href="https://status.openrobotics.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ROS 资源状态页面</font></font></a></li>
+<li><a href="https://ros.org/reps/rep-2000.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">REP-2000</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：ROS 2 版本和目标平台</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-project-resources" class="anchor" aria-hidden="true" tabindex="-1" href="#project-resources"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">项目资源</font></font></h2>
+<ul dir="auto">
+<li><a href="https://spring.ros.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">购买 ROS 赃物</font></font></a></li>
+<li><a href="https://www.ros.org/blog/media/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关 ROS 商标的信息</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在社交媒体上
+</font></font><ul dir="auto">
+<li><a href="https://www.linkedin.com/company/open-source-robotics-foundation" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在 LinkedIn 上开放机器人</font></font></a></li>
+<li><a href="https://twitter.com/OpenRoboticsOrg" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在 Twitter 上开放机器人</font></font></a></li>
+<li><a href="https://twitter.com/ROSOrg" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Twitter 上的 ROS.org</font></font></a></li>
+</ul>
+</li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ROS 的诞生得益于开源贡献者和非营利性</font></font><a href="https://www.openrobotics.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开源机器人基金会 (OSRF)</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">的慷慨支持。</font><font style="vertical-align: inherit;">可以在此处向 OSRF 进行免税捐款</font></font><a href="https://donorbox.org/support-open-robotics?utm_medium=qrcode&amp;utm_source=qrcode" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></a></p>
+</article></div>
